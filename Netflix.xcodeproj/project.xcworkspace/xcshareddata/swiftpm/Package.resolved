@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage",
+      "state" : {
+        "revision" : "1f06ef5007b6a580b3873ed2adee19e05d3b215a",
+        "version" : "5.18.3"
+      }
+    },
+    {
+      "identity" : "youtube-ios-player-helper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/youtube/youtube-ios-player-helper.git",
+      "state" : {
+        "revision" : "f57129cd4380ec0a74dd3a59da3270a1d653d59b",
+        "version" : "1.0.4"
+      }
+    }
+  ],
+  "version" : 2
+}
